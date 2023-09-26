@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on creating an interactive piano game with "surprise twists"<br>I would like to collaborate on any projects that have to do with complex algorithms and data structures<br>On my spare time, I like to play Fifa and write music<br>
+I'm currently working on creating an interactive piano game with "surprise twists"<br>I would like to collaborate on any projects that has to do with complex algorithms and data structures<br>On my spare time, I like to play Fifa and write music<br>
 
 
 ## 🌐 Socials:
