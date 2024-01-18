@@ -1,5 +1,5 @@
 # 💫 About Me:
-Leading the development of a sophisticated support bot at Ally, leveraging Flask and Langchain in the backend. Engineered a seamless RESTful API to connect the backend with a React front end, ensuring efficient communication. Integrated OpenAI for natural language processing, enhancing user interactions.
+Leading the development of a sophisticated support bot at Ally, leveraging Flask and Langchain in the backend. Engineered a seamless RESTful API to connect the backend with a React front end, ensuring efficient communication. Integrated OpenAI for natural language processing and fine-tuned the model to deliver efficient and tailored responses to users.
 
 
 
