@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on creating an interactive piano game with "surprise twists"<br>I would like to collaborate on any projects that has to do with complex algorithms and data structures<br>On my spare time, I like to play Fifa and write music<br>
+Leading the development of a sophisticated support bot at Ally, leveraging Flask and Langchain in the backend. Engineered a seamless RESTful API to connect the backend with a React front end, ensuring efficient communication. Integrated OpenAI for natural language processing, enhancing user interactions.
+
 
 
 ## 🌐 Socials:
