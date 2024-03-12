@@ -1,6 +1,7 @@
-# 💫 About Me:
-Leading the development of a sophisticated support bot at Ally, leveraging Flask and Langchain in the backend. Engineered a seamless RESTful API to connect the backend with a React front end, ensuring efficient communication. Integrated OpenAI for natural language processing and fine-tuned the model to deliver efficient and tailored responses to users.
+# 💫 About Me: 🚀 Computer Science and Finance grad from Michigan State University, driven by a passion for innovation and problem-solving. 💻 Constantly exploring software landscapes to craft ingenious solutions and optimize processes - efficiency is my mantra. 🌟 Creativity fuels my approach to every challenge, from coding conundrums to crafting melodies. When I'm not immersed in code, you'll find me tickling the ivories (piano), writing music and poetry, or finding balance at the gym. PS5 enthusiast on the side. 🎶🏋️🎮
 
+# Current Project:
+I'm at the helm of a groundbreaking project at Ally, spearheading the development of a sophisticated support bot. Leveraging Flask and Langchain in the backend, I'm engineering a seamless RESTful API connecting to a React frontend, ensuring efficient communication. With a focus on enhancing user experience, I've integrated OpenAI for natural language processing, fine-tuning the model to deliver efficient and tailored responses. Stay tuned for updates as we revolutionize support services with cutting-edge technology.
 
 
 ## 🌐 Socials:
