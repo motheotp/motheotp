@@ -15,9 +15,6 @@ I’m currently building Marang AI, an AI-powered financial analysis platform th
 ![](https://github-readme-streak-stats.herokuapp.com/?user=motheotp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=motheotp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=motheotp&icon=0&color=0)](https://visitcount.itsvg.in)
 
