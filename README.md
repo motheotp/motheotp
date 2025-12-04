@@ -2,7 +2,7 @@
 🚀 Computer Science and Finance grad from Michigan State University, currently pursuing my Master's in Computer Science at The University of Texas at Arlington. I am driven by a strong interest in innovation, problem-solving, and building efficient, scalable solutions. 💻Beyond technical work, I explore creativity through music and writing. I play piano, write songs and poetry, and stay active at the gym. Also a casual PS5 gamer when I find the time. 🎶🏋️🎮
 
 # Current Project:
-I'm at the helm of a groundbreaking project at Ally, spearheading the development of a sophisticated support bot. Leveraging Flask and Langchain in the backend, I'm engineering a seamless RESTful API connecting to a React frontend, ensuring efficient communication. With a focus on enhancing user experience, I've integrated OpenAI for natural language processing, fine-tuning the model to deliver efficient and tailored responses. Stay tuned for updates as we revolutionize support services with cutting-edge technology.
+I’m currently building Marang AI, an AI-powered financial analysis platform that processes earnings calls and SEC filings using RAG pipelines, sentiment analysis, and risk scoring—deployed on AWS EKS with a PostgreSQL vector database. It brings together my passion for AI engineering and finance, demonstrating full-stack capability from data architecture to cloud deployment.
 
 
 ## 🌐 Socials:
