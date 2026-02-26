@@ -6,6 +6,8 @@
 # Current Project:
 I’m currently building Marang AI, an AI-powered financial analysis platform that processes earnings calls and SEC filings using RAG pipelines, sentiment analysis, and risk scoring—deployed on AWS EKS with a PostgreSQL vector database. It brings together my passion for AI engineering and finance, demonstrating full-stack capability from data architecture to cloud deployment.
 
+#Resume & Portfolio : https://motheotreasurepuso.com
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Motheo Treasure Puso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/motheo-treasure-puso-6b637a13a/) 
