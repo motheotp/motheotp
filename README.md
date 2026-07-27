@@ -4,9 +4,9 @@
 💻 Beyond coding, I'm a musician (piano, songwriting), writer, and fitness enthusiast. Also a casual PS5 gamer when time permits. 🎶🏋️🎮
 
 # Current Project:
-I’m currently building Marang AI, an AI-powered financial analysis platform that processes earnings calls and SEC filings using RAG pipelines, sentiment analysis, and risk scoring—deployed on AWS EKS with a PostgreSQL vector database. It brings together my passion for AI engineering and finance, demonstrating full-stack capability from data architecture to cloud deployment.
+'m a Master's student in Computer Science at UT Arlington, currently researching parallel substructure (frequent subgraph) discovery algorithms for large-scale graph databases, focused on making graph mining scale across distributed systems. Alongside my thesis, I'm building Marang AI, an AI-powered financial analysis platform that processes earnings calls and SEC filings using RAG pipelines, sentiment analysis, and risk scoring, deployed on AWS EKS with a PostgreSQL vector database. My work spans distributed systems, backend engineering, and cloud infrastructure, drawing on a background in both computer science and finance.
 
-#Resume & Portfolio : https://motheotreasurepuso.com
+#Resume & Portfolio : https://motheotp.com
 
 
 ## 🌐 Socials:
